@@ -1,0 +1,39 @@
+.main {
+  background: gray;
+  width: 300px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.main form {
+  width: 100%;
+  padding: 10px;
+  height: 230px;
+}
+
+.main form .result {
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+  text-align: end;
+  background: pink;
+  color: black;
+  font-weight: bold;
+}
+
+.main form .button {
+  padding: 5px 25px;
+  font-size: 15px;
+  width: 22%;
+}
+
+.main form .btn {
+  padding: 2px 25px;
+  font-size: 15px;
+  width: 22%;
+  background: pink;
+  border: 2px;
+  height: 120px;
+  margin-top: -120px;
+  transform: translateY(-42px);
+}
