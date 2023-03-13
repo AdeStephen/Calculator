@@ -1,8 +1,9 @@
 .main {
-  background: gray;
+  background: rgb(27, 26, 26);
   width: 300px;
   margin: auto;
   margin-top: 10%;
+  border-radius: 20px;
 }
 
 .main form {
@@ -36,4 +37,9 @@
   height: 120px;
   margin-top: -120px;
   transform: translateY(-42px);
+}
+
+.main form .operator {
+  background-color: grey;
+  border: 1px;
 }
